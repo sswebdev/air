@@ -1,15 +1,12 @@
-== README
+== OneWayAir
 
-Here's how to get started:
+**Here's how to get started:**
 
-* Clone this app
+1. Clone this app
+1. bundle install
+1. rake db:migrate
+1. rake db:seed
+1. Start the server and go to the home page.  You'll see a lot of flights listed.
 
-* bundle install
+Now go to the Help page.  You'll see a list of Challenges, Business Rules, and User Stories.  See how many you can do!
 
-* rake db:migrate
-
-* rake db:seed
-
-* Start the server and go to the home page.  You'll see a list of 50 flights.
-
-* Go to the Help page.  Start at the top and try as many as you can.
