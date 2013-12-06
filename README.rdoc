@@ -1,0 +1,15 @@
+== README
+
+Here's how to get started:
+
+* Clone this app
+
+* bundle install
+
+* rake db:migrate
+
+* rake db:seed
+
+* Start the server and go to the home page.  You'll see a list of 50 flights.
+
+* Go to the Help page.  Start at the top and try as many as you can.
